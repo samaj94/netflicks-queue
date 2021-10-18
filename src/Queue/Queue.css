@@ -1,0 +1,9 @@
+.queue-tabs {
+  display: flex;
+  flex-direction: row;
+  color: rgb(175, 49, 49);
+}
+
+.queue-tabs .highlighted {
+  color: rgb(50, 50, 214);
+}
